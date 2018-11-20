@@ -2,7 +2,9 @@
 
 An R experiment to create flowers inspired in the [Julia Sets](https://en.wikipedia.org/wiki/Julia_set), a family of fractal sets obtained from complex numbers, after being iterated by a holomorphic function. Some examples:
 
-<img src="https://fronkonstin.com/wp-content/uploads/2018/11/Julia_grid.jpg" height="650" width="650" align="middle">
+<img src="https://fronkonstin.com/wp-content/uploads/2018/11/Julia_grid.jpg" style="max-height: 100px; max-width: 100px;" />
+
+
 
 ## Getting Started
 
